@@ -1,4 +1,4 @@
-# Bike-Share-pricing-strategy-Analysis-
+# Bike-Share-pricing-strategy-Analysis
 
 **Problem Statement:**
 
